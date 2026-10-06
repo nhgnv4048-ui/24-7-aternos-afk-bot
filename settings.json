@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ss_sufen01.aternos.me",
-    "port": 61321,
+    "ip": "sssufen01.aternos.me",
+    "port": 28822,
     "version": "1.20.1",
     "try-creative": false
   },
